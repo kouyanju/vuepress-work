@@ -1,0 +1,27 @@
+{
+  "name": "vuepress-work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kouyanju/vuepress-work.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kouyanju/vuepress-work/issues"
+  },
+  "homepage": "https://github.com/kouyanju/vuepress-work#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
